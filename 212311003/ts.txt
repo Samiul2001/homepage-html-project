@@ -1,0 +1,31 @@
+ <div class="plan-container">
+            <div class="item-price">
+                <ul class="plan-title">Basic</h2>
+
+                    <li class="grey">10GB Storage</li>
+
+                    <li>10GB Storage</li>
+
+
+                    <li>10 Emails</li>
+
+
+                    <li>10 Domains</li>
+
+
+                    <li>Endless Support</li>
+                     
+                   <li> $10 / year</li>
+                   <li class="grey"><a href="#" class="Sbutton">Sign Up</a></li>
+            
+            
+                </ul>
+</div>
+
+                
+
+
+            
+
+
+            </ul>
